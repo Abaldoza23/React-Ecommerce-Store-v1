@@ -8,6 +8,7 @@ import Cancel from './pages/Cancel';
 import Store from './pages/Store';
 import Success from './pages/Success';
 import CartProvider from './CartContext';
+
 // localhost:3000 -> Home
 // localhost:3000/success -> Success
 
